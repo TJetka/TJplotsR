@@ -1,0 +1,18 @@
+Package: TJplots
+Title: Utility functions for plotting
+Version: 0.1.170613
+Authors@R: person("Tomasz", "Jetka", email = "t.jetka@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.2.0)
+License: Private
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2,
+    ggthemes,
+    grid,
+    gridExtra,
+    gtable
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
