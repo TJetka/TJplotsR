@@ -1,6 +1,9 @@
 ## README
 
-My personal scripts for plotting formatted into package. Deprecated. 
+My personal scripts for plotting formatted into package. Use 
 
-Use on your own risks.
+>`devtools::install_github("TJetka/pkg_TJplotsR")`
+to install.
+
+Deprecated. Use on your own risks.
 @TJetka
